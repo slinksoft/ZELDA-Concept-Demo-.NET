@@ -9,8 +9,8 @@ This is a concept demo of The Legend of Zelda NES fully coded from scratch in C#
   
 <img src="https://i.imgur.com/QcnKL1D.png">
 <br><br>
-<br><br>
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+Video:<br><br>
+  https://www.youtube.com/watch?v=OpHKMR3tXes
 <br><br>
 <font><b>NOTE: THIS PROJECT WAS WRITTEN IN AN OLD VERSION OF .NET</b></font>
 </p>
